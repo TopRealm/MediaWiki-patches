@@ -1,2 +1,9 @@
-# MediaWiki-patches
-档案馆MediaWiki补丁记录
+# 概要 
+本补丁集为有兽档案馆为改善MediaWiki的功能而开发的补丁集。
+
+## 目录结构
+本目录可能包含对扩展、皮肤、核心的补丁，目录结构如下：
+* `README.md` 本文件
+* `/patch` 补丁文件
+> 所有补丁文件均以src目录为MediaWiki根目录，各个文件夹对应MediaWiki软件系统的对应目录。
+
